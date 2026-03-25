@@ -87,11 +87,12 @@
 
 ### 🌐 Connect with Me
 <p align="left">
-  <a href="https://www.linkedin.com/in/angel-daniel-lomelí-bravo-3a5648327" title="LinkedIn">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/>
+  <a href="https://www.linkedin.com/in/angel-daniel-lomelí-bravo-3a5648327">
+    <img src="https://img.shields.io/badge/LinkedIn-Angel%20Lomelí-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://alomelibravo.github.io/alomeli-portfolio/" title="Portfolio">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chrome/chrome-original.svg" width="40"/>
+  &nbsp;
+  <a href="https://alomelibravo.github.io/alomeli-portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-alomelibravo.github.io-4B0082?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
 </p>
 
